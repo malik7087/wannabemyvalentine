@@ -20,4 +20,11 @@ export const positiveTexts = [
   'Oh, nice! But are you sure?',
   'Just wanna check last time.',
   'Thats last check!',
+  'Nahi, App Emotional hojaogi XD',
+  'Choro na Yr q Yes bol rhi hou',
+  'Are u sure Forever ky liyae usski rahogi?',
+  'Agar Yes bol diya tou sari zindagi ky liyae Phass jaogi iss liyae No bol dou',
+  'Achaaw! App yes bol rhi hou abhi bhi',
+  'Chalo yr Ajao Dekh lou Kya likha hae appky liyae',
+  'Lkn aesa kch romatic nhi likha'
 ];
